@@ -1888,10 +1888,10 @@
   resolved "https://registry.yarnpkg.com/@metamask/forwarder/-/forwarder-1.1.0.tgz#13829d8244bbf19ea658c0b20d21a77b67de0bdd"
   integrity sha512-Hggj4y0QIjDzKGTXzarhEPIQyFSB2bi2y6YLJNwaT4JmP30UB5Cj6gqoY0M4pj3QT57fzp0BUuGp7F/AUe28tw==
 
-"@metamask/inpage-provider@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@metamask/inpage-provider/-/inpage-provider-5.0.0.tgz#f3961ceb02821255785fe20b1b676bfd944532d7"
-  integrity sha512-DjQy/hJPKwEhk+L/XPHfR6bSTWsGGXjHCQ3Q/LgieQX/Kv91yyMu+QUu+tWuVi0qX0dSRmaTnFNCF9FWNV1XgA==
+"@metamask/inpage-provider@^5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@metamask/inpage-provider/-/inpage-provider-5.0.1.tgz#f3ff89036712b94364294abaac0a183817912982"
+  integrity sha512-cgreQfBQoFkS1r6MPhw3SUeGoJjxBcvtmvW3Yc5uki1Wip4kTqMUyW8AE6L8L0MGHTXhmZKb4BbjGiKySAE4cw==
   dependencies:
     eth-json-rpc-errors "^2.0.2"
     fast-deep-equal "^2.0.1"
