@@ -1008,6 +1008,9 @@
   "noThanks": {
     "message": "No Thanks"
   },
+  "notCurrentAccount": {
+    "message": "Make sure this is the account you meant to send from! It's different than the currently selected account in your wallet."
+  },
   "notEnoughGas": {
     "message": "Not Enough Gas"
   },
